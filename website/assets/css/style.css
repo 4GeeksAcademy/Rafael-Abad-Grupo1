@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+.text_Img{
+    font-size: 110px;
+    padding-top: 40px;
+    text-align: center;
+    font-weight: 500;
+}
+.text_Img2{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 20px;
+}
